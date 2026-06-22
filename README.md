@@ -13,10 +13,10 @@
 
 ## 🤝 Contributions
 
-* **[ClawWork](https://github.com/clawwork-ai/ClawWork)**: Desktop workspace for running parallel OpenClaw sessions. [![stars](https://img.shields.io/github/stars/clawwork-ai/ClawWork?style=flat-square&label=stars)](https://github.com/clawwork-ai/ClawWork/stargazers)
 * **[OpenClaw](https://github.com/openclaw/openclaw)**: Open-source, cross-platform personal AI assistant. [![stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=stars)](https://github.com/openclaw/openclaw/stargazers)
-* **[LobeHub](https://github.com/lobehub/lobehub)**: AI agent workspace and operations platform. [![stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square&label=stars)](https://github.com/lobehub/lobehub/stargazers)
 * **[Hermes Agent](https://github.com/NousResearch/hermes-agent)**: Open-source personal AI agent. [![stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=stars)](https://github.com/NousResearch/hermes-agent/stargazers)
+* **[ClawWork](https://github.com/clawwork-ai/ClawWork)**: Desktop workspace for running parallel OpenClaw sessions. [![stars](https://img.shields.io/github/stars/clawwork-ai/ClawWork?style=flat-square&label=stars)](https://github.com/clawwork-ai/ClawWork/stargazers)
+* **[LobeHub](https://github.com/lobehub/lobehub)**: AI agent workspace and operations platform. [![stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square&label=stars)](https://github.com/lobehub/lobehub/stargazers)
 
 ---
 
