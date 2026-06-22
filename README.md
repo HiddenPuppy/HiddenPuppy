@@ -19,9 +19,3 @@
 * **[LobeHub](https://github.com/lobehub/lobehub)**: AI agent workspace and operations platform. [![stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square&label=stars)](https://github.com/lobehub/lobehub/stargazers)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiddenPuppy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jerome's GitHub Stats" />
-</p>
