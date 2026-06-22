@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hello, I'm Jerome</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+Hello%2C+I%27m+Jerome;%F0%9F%92%BB+Welcome+to+my+GitHub&amp;center=true&amp;width=440&amp;height=52&amp;font=Fira+Code&amp;color=58A6FF&amp;size=24" alt="Animated introduction" />
+</p>
 
 <p align="center">
   <a href="https://github.com/HiddenPuppy?tab=followers">
